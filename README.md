@@ -1,4 +1,4 @@
-# PS_HttpServer
+# PSHttpServer
 A simple PowerShell HTTP server.
 
 ## Usage
